@@ -21,19 +21,19 @@ JSON / Pickle – Object serialization & deserialization
 
 📁 OOP-Python-Repository
 
-│── 📄 README.md
-│── 📁 Notebooks/ – Jupyter notebooks for OOP concepts & examples
-│── 📁 Projects/ – Hands-on OOP-based projects
-│── 📁 Design-Patterns/ – Implementations of popular OOP design patterns
-│── 📁 Resources/ – Useful books, research papers & links
-│── 📁 Exercises/ – OOP coding challenges & solutions
+│── 📄 README.md  
+│── 📁 Notebooks/ – Jupyter notebooks for OOP concepts & examples  
+│── 📁 Projects/ – Hands-on OOP-based projects  
+│── 📁 Design-Patterns/ – Implementations of popular OOP design patterns  
+│── 📁 Resources/ – Useful books, research papers & links  
+│── 📁 Exercises/ – OOP coding challenges & solutions  
 
 **🚧 Work in Progress**
 
-This repository is a continuous learning project where I will be updating:
+This repository is a continuous learning project where I will be updating:  
 ✅ Real-world OOP applications  
 ✅ Best practices & optimizations  
-✅ Advanced OOP topics & design patterns
+✅ Advanced OOP topics & design patterns  
 
 Stay tuned for new projects, optimizations, and research-based insights!
 
